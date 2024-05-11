@@ -1,0 +1,17 @@
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\bin\Debug\net6.0\CustomerManagement.DAL.deps.json
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\bin\Debug\net6.0\CustomerManagement.DAL.runtimeconfig.json
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\bin\Debug\net6.0\CustomerManagement.DAL.dll
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\bin\Debug\net6.0\CustomerManagement.DAL.pdb
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\bin\Debug\net6.0\CustomerManagement.Entities.dll
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\bin\Debug\net6.0\CustomerManagement.Entities.pdb
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\CustomerManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\CustomerManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\CustomerManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\CustomerManagement.DAL.AssemblyInfo.cs
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\CustomerManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\CustomerManagement.DAL.csproj.CopyComplete
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\CustomerManagement.DAL.dll
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\refint\CustomerManagement.DAL.dll
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\CustomerManagement.DAL.pdb
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\CustomerManagement.DAL.genruntimeconfig.cache
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.DAL\obj\Debug\net6.0\ref\CustomerManagement.DAL.dll

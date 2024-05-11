@@ -1,0 +1,17 @@
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\bin\Debug\net6.0\CustomerManagement.BLL.deps.json
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\bin\Debug\net6.0\CustomerManagement.BLL.dll
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\bin\Debug\net6.0\CustomerManagement.BLL.pdb
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\obj\Debug\net6.0\CustomerManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\obj\Debug\net6.0\CustomerManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\obj\Debug\net6.0\CustomerManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\obj\Debug\net6.0\CustomerManagement.BLL.AssemblyInfo.cs
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\obj\Debug\net6.0\CustomerManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\obj\Debug\net6.0\CustomerManagement.BLL.dll
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\obj\Debug\net6.0\refint\CustomerManagement.BLL.dll
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\obj\Debug\net6.0\CustomerManagement.BLL.pdb
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\obj\Debug\net6.0\ref\CustomerManagement.BLL.dll
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\bin\Debug\net6.0\CustomerManagement.DAL.dll
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\bin\Debug\net6.0\CustomerManagement.Entities.dll
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\bin\Debug\net6.0\CustomerManagement.DAL.pdb
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\bin\Debug\net6.0\CustomerManagement.Entities.pdb
+C:\Users\serhat.yasaroglu\Desktop\DersNotları\C#\EnesBayramC#BasicLessons\CustomerManagement\CustomerManagement.BLL\obj\Debug\net6.0\CustomerManagement.BLL.csproj.CopyComplete
