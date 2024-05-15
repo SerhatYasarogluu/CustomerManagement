@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CustomerManagement.Entities
 {
-    public class Customer : ICustomer
+    public class Customer 
     {
         public int Id { get; set; }
         public string Name { get; set; }

@@ -1,6 +1,7 @@
 ﻿using CustomerManagement.BLL;
 using CustomerManagement.DAL;
 using CustomerManagement.Entities;
+using System.Text.RegularExpressions;
 
 namespace CustomerUI
 {
@@ -53,9 +54,26 @@ namespace CustomerUI
         {
             Console.Write("Müşteri ismi: ");
             string name = Console.ReadLine();
-            Console.Write("Telefon numarası: ");
-            string phoneNumber = Console.ReadLine();
+            string phoneNumber=string.Empty;
 
+            bool validPhone = false;
+            while (!validPhone)
+            {
+                Console.Write("Telefon numarası: ");
+                phoneNumber = Console.ReadLine();
+
+                string phoneRegex = @"^(\+90|0)([0-9]{10})$";
+                Regex regex = new Regex(phoneRegex);
+
+                if (!regex.IsMatch(phoneNumber))
+                {
+                    Console.WriteLine("Geçerli bir Türk telefon numarası girin. Örnek: +905551234567 veya 05551234567");
+                }
+                else
+                {
+                    validPhone = true;
+                }
+            }
             var customer = new Customer { Name = name, PhoneNumber = phoneNumber };
             _customerService.AddCustomer(customer);
             Console.WriteLine("Müşteri başarıyla eklendi.");

@@ -21,7 +21,6 @@ public class CustomerService : ICustomerService
         _customerRepository.Delete(customerId);
     }
 
-
     public void UpdateCustomer(Customer customer)
     {
         _customerRepository.Update(customer);
